@@ -1,0 +1,11 @@
+Name: Ritchey AI Training Data License
+Version: 1
+Long Identifier: Ritchey AI Training Data License v1
+Short Identifier: RATDLv1
+Description: A use-specific license for AI projects.
+History:
+ - Version 1 completed December 22, 2024.
+Author:James Daniel Marrs Ritchey
+Licensing: This project is hereby licensed under the Ritchey Verbatim License v4 license.
+Notes:
+- 
