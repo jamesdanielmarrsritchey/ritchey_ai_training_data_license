@@ -1,0 +1,1 @@
+# ritchey_ai_training_data_license
